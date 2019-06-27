@@ -10,6 +10,10 @@ class HelloGit{
 		obj.helloGit();
 	
 	}
+
+	void myBigMethod(){
+		sysout("my big method")
+	}
 //weknii
 }
 

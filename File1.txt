@@ -1,15 +1,16 @@
-This is my first git ..... welcome to GIT Kabir Singh..!!!!!!!!!
+//This is my first git ..... welcome to GIT Kabir Singh..!!!!!!!!!
 
 class HelloGit{
 	
 	void helloGit(){
-		sysout("heloo gitt")
+		System.out.println("heloo gitt")
 	}
 	public static void main(String str[]){
-		
+		HelloGitobj = new HelloGit();
+		obj.helloGit();
 	
 	}
-weknii
+//weknii
 }
 
 

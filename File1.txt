@@ -1,11 +1,13 @@
 //This is my first git ..... welcome to GIT Kabir Singh..!!!!!!!!!
 
 class HelloGit{
-	
-	static void helloGit(){
+
+	public static final void helloGit(Sting str){
 		System.out.println("heloo gitt")
 	}
 	public static void main(String str[]){
+		HelloGitobj = new HelloGit();
+		obj.helloGit("hello");
 	
 	HelloGit helloGit();
 	

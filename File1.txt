@@ -13,7 +13,7 @@ class HelloGit{
 	
 	}
 
-	void myBigMethod(){
+	public static void myBigMethod(){
 		sysout("my big method")
 	}
 //weknii
